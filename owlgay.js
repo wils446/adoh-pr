@@ -1,0 +1,1 @@
+console.log("Nama saya owl dan saya gay");
